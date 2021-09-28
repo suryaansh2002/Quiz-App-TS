@@ -2,7 +2,9 @@
 
 ### Hosted at: https://suryaansh-quiz-game-ts.netlify.app/
 
-## Used the Apo: https://opentdb.com/api_config.php
+### Used the Apoi: https://opentdb.com/api_config.php
+
+
 
 
 # Getting Started with Create React App
