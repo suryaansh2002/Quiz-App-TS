@@ -1,3 +1,10 @@
+## This is a basic Quiz App made using React (got onto Typescript Finalllyyy!)
+
+### Hosted at: https://suryaansh-quiz-game-ts.netlify.app/
+
+## Used the Apo: https://opentdb.com/api_config.php
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
