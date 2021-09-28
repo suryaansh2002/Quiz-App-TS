@@ -2,7 +2,7 @@
 
 ### Hosted at: https://suryaansh-quiz-game-ts.netlify.app/
 
-### Used the Apoi: https://opentdb.com/api_config.php
+### Used the Api: https://opentdb.com/api_config.php
 
 
 
